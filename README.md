@@ -10,7 +10,7 @@ Ruby Inject Method
 - [x] Name the method different due to rspec internal dsl
 
 
-#### Technologies used:
+###### Technologies used:
 
 - Ruby
 - Rspec
