@@ -1,6 +1,10 @@
-Task 1
+Ruby Inject Method
+==================
 
-Reopen the Array class or subclass it.
-Rewrite the inject method. Write a test for it first. Don't worry about returning an enumerator, assume a block is always given
-Name your method differently (that is, not inject() or subclass Array) because rspec uses inject() internally, so the tests will fail with weird messages unless your implementation of inject is perfect.
-If you would like a challenge, rewrite inject using two approaches: using iterators and using recursion but it’s not required to pass the test.
+## A quick Repository to understand and test the ruby inject method
+
+#####To Do List
+- [x] Re-open the Array class or subclass it.
+- [x] Don't worry about returning an enumerator, assume a block is always given
+- [x] Re-write the inject method with tests.
+- [x] Name the method different due to rspec internal dsl
